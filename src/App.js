@@ -10,8 +10,6 @@ function App() {
   //입력값 관리
   const result = [];
 
-  let slides = document.getElementsByClassName("slide");
-
   //퀴즈 영역의 문제를 1개씩 제공
   let slideIndex = 1;
 
